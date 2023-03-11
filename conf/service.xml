@@ -1,0 +1,10 @@
+<serverList>
+    <server>
+        <name>local-filezilla</name>
+        <desc>파일질라 로그</desc>
+        <keywordList>
+            <keyword>업로드</keyword>
+            <mark>upload-cnt</mark>
+        </keywordList>
+    </server>
+</serverList>
